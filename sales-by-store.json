@@ -1,0 +1,20 @@
+{
+  "items": [
+    { "name": "Receita Semana", "value": 12400000, "valueFormat": "S" }
+  ],
+  "chart": {
+    "type": "bar",
+    "xAxisTitle": "Lojas",
+    "yAxisTitle": "Receita (R$)",
+    "valueFormat": "S",
+    "items": [
+      { "name": "Loja 001", "seriesName": "Semana 43", "value": 4300000 },
+      { "name": "Loja 014", "seriesName": "Semana 43", "value": 2230000 },
+      { "name": "Loja 027", "seriesName": "Semana 43", "value": 3500000 },
+      { "name": "Loja 033", "seriesName": "Semana 43", "value": 4500000 }
+    ],
+    "renderTooltips": true,
+    "renderXAxisLabels": true,
+    "renderYAxisLabels": true
+  }
+}
